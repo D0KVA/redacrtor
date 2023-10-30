@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\textredactor\textredactor\bin\Debug\net6.0\textredactor.exe
+C:\Users\PC\source\repos\textredactor\textredactor\bin\Debug\net6.0\textredactor.deps.json
+C:\Users\PC\source\repos\textredactor\textredactor\bin\Debug\net6.0\textredactor.runtimeconfig.json
+C:\Users\PC\source\repos\textredactor\textredactor\bin\Debug\net6.0\textredactor.dll
+C:\Users\PC\source\repos\textredactor\textredactor\bin\Debug\net6.0\textredactor.pdb
+C:\Users\PC\source\repos\textredactor\textredactor\obj\Debug\net6.0\textredactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\textredactor\textredactor\obj\Debug\net6.0\textredactor.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\textredactor\textredactor\obj\Debug\net6.0\textredactor.AssemblyInfo.cs
+C:\Users\PC\source\repos\textredactor\textredactor\obj\Debug\net6.0\textredactor.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\textredactor\textredactor\obj\Debug\net6.0\textredactor.dll
+C:\Users\PC\source\repos\textredactor\textredactor\obj\Debug\net6.0\refint\textredactor.dll
+C:\Users\PC\source\repos\textredactor\textredactor\obj\Debug\net6.0\textredactor.pdb
+C:\Users\PC\source\repos\textredactor\textredactor\obj\Debug\net6.0\textredactor.genruntimeconfig.cache
+C:\Users\PC\source\repos\textredactor\textredactor\obj\Debug\net6.0\ref\textredactor.dll
+C:\Users\PC\source\repos\textredactor\textredactor\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\textredactor\textredactor\obj\Debug\net6.0\textredactor.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\textredactor\textredactor\obj\Debug\net6.0\textredactor.csproj.CopyComplete

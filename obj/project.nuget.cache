@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mQ5G+4nx3R3pqGec1rgBFfLaiyPFvXDWJL8dX4j58H+8wh2F+eWq+7AFJsraDI8vv8q+UuSD7eHAWgPkF/jnYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\textredactor\\textredactor\\textredactor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
